@@ -16,7 +16,9 @@ At first we need to install Python. To do that first
 - এখন একটা বিষয় হল অনেক লাইব্রেরী আসে জেগুলো Latest version support করে না, বরঞ্চ পুরনো কিছু ভার্সন এর সাথে সামঞ্জস্যপূর্ণ , তাই সব বিবেচনায় আমার কাছে <b>Python (3.11-3.12)</b> best option মনে হয়েছে। যাহোক , এখন আমরা নামিয়ে নেই 64 bit installer
 ![Alt text](screenshots/stable_version.png "Website")
 
-- এখানে গুরুত্বপূর্ণ বিষয় হল, নিচের দুইটা অপশন অন করে এরপরে install করতে হবে![Alt text](screenshots/important_settings.png "Website")
+- এখানে গুরুত্বপূর্ণ বিষয় হল, নিচের দুইটা অপশন অন করে এরপরে install করতে হবে
+
+  ![Alt text](screenshots/important_settings.png "Website")
 
 ---
 # Method 1
@@ -26,8 +28,7 @@ At first we need to install Python. To do that first
 এক মিনিট! প্যাকেজ কি বুঝলাম না তো! ওকে একটা ছোট উদাহরণ দেই। মনে করেন অভ্র ভাই আজকে একটা প্রোগ্রাম বানাল যেটা দিয়ে আমরা সহজে সার্চ করে varsity এর গুরুত্বপূর্ণ তথ্য পেতে পারি। এখন আমি আজকে একটা ওয়েবসাইট বানাব, তো এখন আমি যদি নিজে থেকে varsity এর তথ্য খোজার প্রোগ্রাম না বানিয়ে অভ্র ভাই এর প্রোগ্রাম টা ব্যবহার করি, তাইলে তো আমার কাজ আর করা লাগে না, তাই না? তো এই অভ্র ভাই এর ব্যবহার যোগ্য প্রোগ্রাম বা ফাইল টাই হল প্যাকেজ। jupyter notebook তেমন একটা প্যাকেজ যেটা দিয়ে আমরা python এর line by line code compilation করতে পারি। এটা একটা ওয়েবসাইট এর মতো। এখন আমরা নামানোর পর cmd তে run করব।
 
 - এখন নিচের যেকোনো দুইটার একটা command দিয়ে আমরা run করবো 
- ![Alt text](screenshots/command_1.png "command 1")
-![Alt text](screenshots/command_2.png "command 2")
+ ![Alt text](screenshots/command_1.png "command 1")![Alt text](screenshots/command_2.png "command 2")
 
 - এরপর automatic আমাদের browser open হবে আর আমরা এরকম কিছু দেখতে পারব
 
